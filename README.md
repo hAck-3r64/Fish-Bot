@@ -88,3 +88,5 @@ Memory: 1979M
 Cores: 16
 
 Non-Bundled Plugins: com.kagof.pokeprogress (1.6.0)
+
+(C) hAck_3r64 2022
