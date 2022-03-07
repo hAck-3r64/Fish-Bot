@@ -2,14 +2,17 @@
 The source code of the Fish Bot Discord bot.
 
 
+
 This is the server exclusive bot for the Discord server **FISH GANG !!**
 
 (Plz join) https://discord.gg/TVW77bSFqd
 
 
+
 My code is shit and I know it, plz don't @ me lol
 
 I'm not the owner of the Discord server, but I am, like, a co-owner I guess?
+
 
 
 Python packages used are:
@@ -63,6 +66,7 @@ Python packages used are:
 -aiofiles
 
 (No I did not need all of these but I made a mistake downloading some of them and I can't uninstall them without other things I don't want uninstalled being uninstalled)
+
 
 
 Made in:
