@@ -8,30 +8,55 @@ My code is shit and I know it, plz don't @ me lol
 I'm not the owner of the Discord server, but I am, like, a co-owner I guess?
 
 Python packages used are:
+
 -yarl
+
 -wheel
+
 -typing-extensions
+
 -setuptools
+
 -pycord
+
 -py-cord
+
 -pip
+
 -numpy
+
 -nextcord
+
 -multidict
+
 -imageio-ffmpeg
+
 -idna
+
 -future
+
 -frozenlist
+
 -ffmpeg-python
+
 -discord.py
+
 -discord-components
+
 -charset-normalizer
+
 -chardet
+
 -attrs
+
 -async-timeout
+
 -aiosignal
+
 -aiohttp
+
 -aiofiles
+
 (No I did not need all of these but I made a mistake downloading some of them and I can't uninstall them without other things I don't want uninstalled being uninstalled)
 
 Made in:
